@@ -1,4 +1,4 @@
-module clevergo.tech/examples
+module github.com/echonil/examples
 
 go 1.13
 

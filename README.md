@@ -1,7 +1,7 @@
 # CleverGo Examples
 
 ```shell
-go get clevergo.tech/examples
+go get github.com/echonil/examples
 ```
 
 - [Hello world](hello)

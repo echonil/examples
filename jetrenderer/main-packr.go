@@ -5,4 +5,4 @@
 // and any other packr generated files.
 package main
 
-import _ "clevergo.tech/examples/jetrenderer/packrd"
+import _ "github.com/echonil/examples/jetrenderer/packrd"
